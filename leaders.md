@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Benjamin Lokling Randerberg](mailto:benjamin.randerberg@owasp.org)
+* [Knut Erik Hollund](mailto:knut.hollund@owasp.org)
