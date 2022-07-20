@@ -4,7 +4,7 @@ displaytext: Past events
 layout:  null
 tab: true
 order: 1
-tags: past-events
+tags: pastevents
 ---
 
 ## Past events
