@@ -1,11 +1,9 @@
 ---
-
 layout: col-sidebar
 title: OWASP Stavanger
-tags: example-tag
-region: Unknown
+tags: stavanger
+region: Europe
 meetup-group:
-
 ---
 
 ## Welcome

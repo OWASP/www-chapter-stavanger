@@ -1,10 +1,10 @@
 ---
 title: PastEvents
 displaytext: Past events
-layout:  null
+layout: null
 tab: true
 order: 2
-tags: pastevents
+tags: stavanger
 ---
 
 ## Past events
