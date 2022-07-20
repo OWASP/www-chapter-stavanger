@@ -1,3 +1,4 @@
 ### Leaders
-* [Benjamin Lokling Randeberg](mailto:benjamin.randeberg@owasp.org)
+
+* [Benjamin Løkling Randeberg](mailto:benjamin.randeberg@owasp.org)
 * [Knut Erik Hollund](mailto:knut.hollund@owasp.org)
