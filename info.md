@@ -2,6 +2,5 @@
 * Provide Group Information
 
 ### Social Links
-* [Meetup](#)
-
-
+* [Meetup - coming ...](https://www.meetup.com/OWASP-Stavanger/)
+* [Slack](https://owasp.slack.com/messages/chapter-stavanger)
