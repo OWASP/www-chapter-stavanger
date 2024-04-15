@@ -1,4 +1,4 @@
 ### Leaders
 
-* [Even Tilleri](even.tilleri@owasp.org)
+* [Even Tillerli](even.tillerli@owasp.org)
 * [Nicole Marcelino Silva](nicole.silva@owasp.org)
