@@ -1,0 +1,33 @@
+community:
+  - name: chapter-stavanger
+    platform: slack
+    url: https://owasp.slack.com/archives/C03QHHYG188
+    description: "Channel for OWASP Stavanger chapter :flag-no:\n<https://owasp.org/www-chapter-stavanger/>"
+leaders:
+  - name: Even Tillerli
+    email: even.tillerli@owasp.org
+    github: evtil
+  - name: Nicole Marcelino Silva
+    email: nicole.silva@owasp.org
+    github: nimsilva
+  - name: Benjamin Lokling
+    email: benjamin.lokling@owas.org
+    github: bra001
+location:
+  country: Norway
+  country_code: NO
+  region: Rogaland
+  city: Stavanger
+  latitude: 58.9699675
+  longitude: 5.7318101
+meetup_group: OWASP-Stavanger-Chapter
+name: OWASP Stavanger
+repositories:
+  - name: www-chapter-stavanger
+    url: https://github.com/OWASP/www-chapter-stavanger
+    description: OWASP Foundation Web Repository
+tags:
+  - stavanger
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-stavanger
